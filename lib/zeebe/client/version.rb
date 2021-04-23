@@ -1,6 +1,6 @@
 
 module Zeebe
   module Client
-    VERSION = '0.13.2'.freeze
+    VERSION = '1.0.0-alpha5'.freeze
   end
 end

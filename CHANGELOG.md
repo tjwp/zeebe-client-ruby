@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.0.pre0 (April 17, 2021)
+- Breaking: support [Zeebe 1.0.0](https://github.com/zeebe-io/zeebe/releases/tag/1.0.0-alpha5).
+  The 1.0.0 gateway protocol is incompatible with previous releases.
+- Require Ruby 2.6 or later.
+
 ## 0.13.2 (March 30, 2021)
 
 - add support for [Zeebe 0.26.2](https://github.com/zeebe-io/zeebe/releases/tag/0.26.2)
